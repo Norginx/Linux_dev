@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/*",
+                "/home/xnz/linux/IMX6ULL/linux/linux-imx-4.1.15-2.1.0-g3dc0a4b-v2.7/include", 
+                "/home/xnz/linux/IMX6ULL/linux/linux-imx-4.1.15-2.1.0-g3dc0a4b-v2.7/arch/arm/include", 
+                "/home/xnz/linux/IMX6ULL/linux/linux-imx-4.1.15-2.1.0-g3dc0a4b-v2.7/arch/arm/include/generated/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

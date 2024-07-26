@@ -1,0 +1,1 @@
+cmd_/home/xnz/linux/IMX6ULL/Linux_Drivers/18_mpu6050/mpu6050.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/xnz/linux/IMX6ULL/Linux_Drivers/18_mpu6050/mpu6050.ko /home/xnz/linux/IMX6ULL/Linux_Drivers/18_mpu6050/mpu6050.o /home/xnz/linux/IMX6ULL/Linux_Drivers/18_mpu6050/mpu6050.mod.o
