@@ -1,0 +1,2 @@
+/home/xnz/linux/IMX6ULL/Linux_Drivers/20_ds18b20/ds18b20.ko
+/home/xnz/linux/IMX6ULL/Linux_Drivers/20_ds18b20/ds18b20.o
